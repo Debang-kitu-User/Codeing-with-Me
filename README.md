@@ -7,6 +7,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,8 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
