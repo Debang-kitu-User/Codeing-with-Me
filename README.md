@@ -27,5 +27,10 @@ All the question i have tried and executed are included
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
