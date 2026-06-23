@@ -12,6 +12,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,4 +36,8 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
