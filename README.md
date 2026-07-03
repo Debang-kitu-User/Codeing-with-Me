@@ -38,6 +38,7 @@ All the question i have tried and executed are included
 | [0283-move-zeroes](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
+| [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
@@ -57,4 +58,5 @@ All the question i have tried and executed are included
 | ------- |
 | [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
 <!---LeetCode Topics End-->
