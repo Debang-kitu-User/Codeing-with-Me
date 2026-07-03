@@ -33,12 +33,14 @@ All the question i have tried and executed are included
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -46,4 +48,8 @@ All the question i have tried and executed are included
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
