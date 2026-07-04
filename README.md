@@ -40,6 +40,7 @@ All the question i have tried and executed are included
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +60,9 @@ All the question i have tried and executed are included
 | [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3659-partition-array-into-k-distinct-groups) |
+## Counting
+|  |
+| ------- |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3659-partition-array-into-k-distinct-groups) |
 <!---LeetCode Topics End-->
