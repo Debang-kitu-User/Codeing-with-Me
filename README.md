@@ -32,6 +32,7 @@ All the question i have tried and executed are included
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -58,6 +59,7 @@ All the question i have tried and executed are included
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
