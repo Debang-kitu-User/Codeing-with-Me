@@ -43,6 +43,7 @@ All the question i have tried and executed are included
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Sorting
@@ -51,6 +52,7 @@ All the question i have tried and executed are included
 | [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +61,7 @@ All the question i have tried and executed are included
 | [0283-move-zeroes](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
