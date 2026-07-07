@@ -1,29 +1,38 @@
-
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        // Sort to handle duplicates and maintain order for the result set
+        List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
-        Set<List<Integer>> result = new HashSet<>();
 
         for (int i = 0; i < nums.length - 2; i++) {
-            // Optimization: If the current number is the same as the previous, skip it
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-            int target = -nums[i];
-            Set<Integer> seen = new HashSet<>();
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
 
-            for (int j = i + 1; j < nums.length; j++) {
-                int complement = target - nums[j];
+            int left = i + 1;
+            int right = nums.length - 1;
 
-                if (seen.contains(complement)) {
-                    // List.of creates an immutable list which is perfect for Set storage
-                    result.add(Arrays.asList(nums[i], complement, nums[j]));
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if (sum == 0) {
+ 
+                    result.add(new ArrayList<>(List.of(nums[i], nums[left], nums[right])));
+
+                    while (left < right && nums[left] == nums[left + 1])
+                        left++;
+                    while (left < right && nums[right] == nums[right - 1])
+                        right--;
+
+                    left++;
+                    right--;
+                } else if (sum < 0) {
+                    left++;
+                } else {
+                    right--;
                 }
-                
-                seen.add(nums[j]);
             }
         }
-
-        return new ArrayList<>(result);
+        return result;
     }
 }
