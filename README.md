@@ -9,6 +9,7 @@ All the question i have tried and executed are included
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -96,4 +97,8 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
