@@ -52,6 +52,7 @@ All the question i have tried and executed are included
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
+| [0845-longest-mountain-in-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -81,6 +82,7 @@ All the question i have tried and executed are included
 | [0283-move-zeroes](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
+| [0845-longest-mountain-in-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
@@ -101,6 +103,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0118-pascals-triangle) |
+| [0845-longest-mountain-in-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -110,4 +113,8 @@ All the question i have tried and executed are included
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
