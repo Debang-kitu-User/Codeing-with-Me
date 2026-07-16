@@ -11,6 +11,7 @@ All the question i have tried and executed are included
 | [1071-greatest-common-divisor-of-strings](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ All the question i have tried and executed are included
 | ------- |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ All the question i have tried and executed are included
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +67,7 @@ All the question i have tried and executed are included
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1288-remove-covered-intervals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +81,7 @@ All the question i have tried and executed are included
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +106,5 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
