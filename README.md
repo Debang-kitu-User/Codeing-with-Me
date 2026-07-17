@@ -10,6 +10,7 @@ All the question i have tried and executed are included
 | [0069-sqrtx](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1492-the-kth-factor-of-n](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1492-the-kth-factor-of-n) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -37,6 +38,7 @@ All the question i have tried and executed are included
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +62,7 @@ All the question i have tried and executed are included
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -96,10 +99,12 @@ All the question i have tried and executed are included
 | [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Dynamic Programming
 |  |
@@ -115,6 +120,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1492-the-kth-factor-of-n) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -125,4 +131,12 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
