@@ -18,6 +18,7 @@ All the question i have tried and executed are included
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -111,6 +112,7 @@ All the question i have tried and executed are included
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0118-pascals-triangle) |
 | [0845-longest-mountain-in-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -142,4 +144,8 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
