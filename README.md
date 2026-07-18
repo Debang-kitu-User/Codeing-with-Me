@@ -10,6 +10,7 @@ All the question i have tried and executed are included
 | [0069-sqrtx](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1492-the-kth-factor-of-n](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -60,6 +61,7 @@ All the question i have tried and executed are included
 | [1288-remove-covered-intervals](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1288-remove-covered-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
@@ -120,6 +122,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
