@@ -22,6 +22,7 @@ All the question i have tried and executed are included
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -148,4 +150,12 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
