@@ -18,6 +18,7 @@ All the question i have tried and executed are included
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
@@ -83,6 +84,7 @@ All the question i have tried and executed are included
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0018-4sum) |
@@ -113,6 +115,7 @@ All the question i have tried and executed are included
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0118-pascals-triangle) |
 | [0845-longest-mountain-in-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0845-longest-mountain-in-array) |
