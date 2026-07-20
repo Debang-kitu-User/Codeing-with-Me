@@ -51,6 +51,7 @@ All the question i have tried and executed are included
 | [0015-3sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -117,6 +118,7 @@ All the question i have tried and executed are included
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0118-pascals-triangle) |
 | [0845-longest-mountain-in-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -124,6 +126,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
