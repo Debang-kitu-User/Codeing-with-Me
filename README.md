@@ -32,6 +32,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -62,6 +63,7 @@ All the question i have tried and executed are included
 | [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
 | [0845-longest-mountain-in-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1288-remove-covered-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -164,4 +166,8 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
