@@ -50,6 +50,7 @@ All the question i have tried and executed are included
 | [0001-two-sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0055-jump-game) |
@@ -77,6 +78,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +92,7 @@ All the question i have tried and executed are included
 | [0005-longest-palindromic-substring](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
