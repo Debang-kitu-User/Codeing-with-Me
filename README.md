@@ -94,6 +94,7 @@ All the question i have tried and executed are included
 | [0015-3sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0283-move-zeroes) |
@@ -173,4 +174,8 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
