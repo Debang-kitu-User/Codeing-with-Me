@@ -178,4 +178,8 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
