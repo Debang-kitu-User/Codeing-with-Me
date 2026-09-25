@@ -33,6 +33,7 @@ All the question i have tried and executed are included
 | ------- |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -68,6 +69,7 @@ All the question i have tried and executed are included
 | [1288-remove-covered-intervals](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1288-remove-covered-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
