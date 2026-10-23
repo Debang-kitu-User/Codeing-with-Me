@@ -67,6 +67,7 @@ All the question i have tried and executed are included
 | [0977-squares-of-a-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1288-remove-covered-intervals) |
+| [1470-shuffle-the-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1929-concatenation-of-array) |
