@@ -60,6 +60,7 @@ All the question i have tried and executed are included
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0414-third-maximum-number) |
@@ -163,6 +164,7 @@ All the question i have tried and executed are included
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
 |  |
