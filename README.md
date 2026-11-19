@@ -8,6 +8,7 @@ All the question i have tried and executed are included
 | ------- |
 | [0067-add-binary](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1492-the-kth-factor-of-n](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +101,7 @@ All the question i have tried and executed are included
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +114,7 @@ All the question i have tried and executed are included
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0575-distribute-candies) |
@@ -193,4 +196,8 @@ All the question i have tried and executed are included
 | [1661-average-time-of-process-per-machine](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/1757-recyclable-and-low-fat-products) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Debang-kitu-User/Codeing-with-Me/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
