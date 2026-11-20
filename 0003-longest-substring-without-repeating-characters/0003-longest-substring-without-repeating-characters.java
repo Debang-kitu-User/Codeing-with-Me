@@ -4,17 +4,17 @@ class Solution {
 
         HashSet<Character> seen = new HashSet<>();
 
-        int maxLength =0;
-        int left =0;
+        int left = 0;
+        int maxLen = 0;
 
-        for(int right=0; right<n; right++){
+        for( int right = 0; right<n; right++){
             while(seen.contains(s.charAt(right))){
                 seen.remove(s.charAt(left));
                 left++;
             }
             seen.add(s.charAt(right));
-            maxLength = Math.max(maxLength, right - left + 1); 
+            maxLen = Math.max(maxLen, right - left +1);
         }
-        return maxLength;
+        return maxLen;
     }
 }
